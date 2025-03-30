@@ -22,7 +22,7 @@ load_dotenv()
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="Sanskrit Texts Knowledge Assistant",
+    page_title="JnanaSetu - Bridging Seekers with Knowledge ",
     page_icon="🕉️",
     layout="wide",
     initial_sidebar_state="expanded",
