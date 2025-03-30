@@ -1,8 +1,17 @@
-python-dotenv
-google-generativeai
+streamlit
 langchain
-PyPDF2
-streamlit
+langchain-groq
+groq
+sentence-transformers
 faiss-cpu
-streamlit
--e .
+unstructured
+python-dotenv
+pypdf
+docx2txt
+markdown
+langdetect
+supabase
+pandas
+numpy
+tqdm
+pillow
